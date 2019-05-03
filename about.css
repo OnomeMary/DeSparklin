@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+p {
+	font-size: 1.4em;
+}
+
+#contact {
+	margin-left: 30px;
+}
+
+.foot {
+	padding: 10px;
+	text-align: center;
+}
